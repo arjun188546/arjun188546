@@ -2,7 +2,7 @@
 
 # Hi, I'm Arjun R K 👋  
 
-I build **AI workflows, agents, and automation systems** that solve real-world problems — connecting people, data, and intelligence.  
+I build **AI workflows, agents, and automation systems** that solve real-world problems connecting people, data, and intelligence.  
 
 Most of my work focuses on **production-grade automation**, **AI workflow orchestration**, and **LLM fine-tuning** using modern frameworks and real business data.  
 I love combining **AI + automation + engineering** to build tools that actually work in real environments.  
